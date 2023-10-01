@@ -13,6 +13,7 @@
 
 ![Dairon Reijna's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=Bootstrap-Portfolio&amp;theme=buefy)
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f090571a8fcf725c7a979bb876f823c005c26356e2719e67dfe5239ef86974b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d6f726f773733"><img src="https://camo.githubusercontent.com/4f090571a8fcf725c7a979bb876f823c005c26356e2719e67dfe5239ef86974b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d6f726f773733" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=daironreijna" style="max-width: 100%;"></a></p>
 <!---
 
 

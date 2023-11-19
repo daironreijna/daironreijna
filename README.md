@@ -8,20 +8,13 @@ I'm a passionate FrontEnd developer from Sint Maarten sxm, now living in the Uni
 
 **About me**
 
-- 👋 Hi, I’m Dairon, welcome to my github page.
+- 👀 I’m interested in furthering my knowledge and skills as a Front End and UX Web Developer.
 
-- 👀 I’m interested in furthering my knowledge as a Front End and UX Web Developer.
+- 🌱 I have successfully completed my digital skills boot camp at the University of Birmingham in November 2023.
 
-- 🌱 I am committed to continuos learning, having recently completed my digital skills bootcamp at University of
-Birmingham in November 2023.
+- 🎯 My short-term goals include building a portfolio website using React.js, collaborating on a Full Stack project, and securing a position as a Front End Web Developer.
 
-- My short term goals (
-<=6 months) are to build my portfolio website using React.js, <br />colloborate
-on a Full Stack project, <br />and land my first job as a Front End Web
-Developer.
-- 💬 Connect with me [here](https://www.linkedin.com/in/dairon-reijna/)
-
-- 📫 Email me [here](mailto:dairon.reijna@gmail.com)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/dairon-reijna/), and via 📫 email at [dairon.reijna@gmail.com](mailto:dairon.reijna@gmail.com).
 
 <br />
 

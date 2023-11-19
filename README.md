@@ -1,45 +1,80 @@
+<p align="center"><img width="20%" alt="Hello, I'm Dairon. I do amazing stuff!"
+    src="https://avatars.githubusercontent.com/u/140647099?v=4" style="max-width: 100%;"></p>
+<br />
+
+I'm a passionate FrontEnd developer from Sint Maarten sxm, now living in the United Kingdom uk.
+
+<br />
+
+**About me**
+
+- 👋 Hi, I’m Dairon, welcome to my github page.
+
+- 👀 I’m interested in furthering my knowledge as a Front End and UX Web Developer.
+
+- 🌱 I am committed to continuos learning, having recently completed my digital skills bootcamp at University of
+Birmingham in November 2023.
+
+- My short term goals (
+<=6 months) are to build my portfolio website using React.js, <br />colloborate
+on a Full Stack project, <br />and land my first job as a Front End Web
+Developer.
+- 💬 Connect with me [here](https://www.linkedin.com/in/dairon-reijna/)
+
+- 📫 Email me [here](mailto:dairon.reijna@gmail.com)
+
+<br />
+
+**Skills**
+
+<code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></code>
+<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></code>
+<code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></code>
+<code><img height="60" width="60" alt="jquery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width: 100%;"></code>
+<code><img height="40" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;"></code>
+<code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></code>
+<code><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></code>
 
 
-- 👋 Hi, I’m @daironreijna
-- 👀 I’m interested in different topics HTML, CSS, and Javascript.
-- I am committed to 200 commits in a 6 month period.
-- 🌱 I’m currently learning Front-end Web Development and UX.
-- 💞️ I’m looking to collaborate on projects that will allow me to hone my skills.
-- 📫 How to reach me via LinkedIn - https://www.linkedin.com/in/dairon-reijna/
+<br />
 
-[![Dairon Reijna's Github stats](https://github-readme-stats.vercel.app/api?username=daironreijna)](https://github.com/anuraghazra/github-readme-stats)
+#### Resources
 
-![Dairon Reijna's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daironreijna&amp;layout=compact&amp;theme=buefy&amp;hide_border=true)
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/anuraghazra#top-repositories
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/othneildrew/Best-README-Template
+- https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+- https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
 
-![Dairon Reijna's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=Bootstrap-Portfolio&amp;theme=buefy)
+<br />
 
-<!---
+#### Inspiring Readme's
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/pin/?username=daironreijna"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daironreijna" alt="page views" data-canonical-src="[https://github-readme-stats.vercel.app/api/pin/?username=daironreijna]" style="max-width: 100%;"></a></p>
+- https://github.com/timburgan/timburgan
+- https://github.com/m0nica
+- https://github.com/Thaiane/Thaiane
 
+<br />
 
-
-
-
-
-
-
-
-
-<img align="center" src="https://camo.githubusercontent.com/1d56c34bccac3e473ee6ace7bb5a5424a427d769c7dcf8606a1f9f2309b79576/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+| <a href="https://github.com/daironreijna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daironreijna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dairon's github stats" /></a> | <a href="https://github.com/daironreijna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daironreijna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
-![Dairon Reijna's Most used languages](https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=&amp;theme=buefy)
+<br />
 
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
+#### Group Project Repositories
 
-https://github.com/anuraghazra#top-repositories
+<a href="https://github.com/daironreijna/Landmark-Learning-API">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=Landmark-Learning-API&amp;theme=buefy"
+        data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=Landmark-Learning-API&amp;theme=buefy"
+        style="max-width: 100%;" />
+</a>
+<a href="https://github.com/daironreijna/e-commerce-webstore">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=e-commerce-webstore&amp;theme=buefy"
+        data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=daironreijna&amp;repo=e-commerce-webstore&amp;theme=buefy"
+        style="max-width: 100%;" />
+</a>
 
-daironreijna/daironreijna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
-example: https://github.com/m0nica
-example: https://github.com/Thaiane/Thaiane
---->
